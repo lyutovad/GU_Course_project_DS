@@ -46,4 +46,4 @@ F1( 𝛽  = 1) > 0.5 при Precision > 0.5 и Recall > 0.5
 
 6. [Предсказание на тестовом датасете](https://github.com/lyutovad/GU_Course_project_DS/tree/main/Prediction)
 
-#### [Ноутбук с решением](https://github.com/lyutovad/GU_Course_project_DS/tree/main/Solution)
+## [Ноутбук с решением](https://github.com/lyutovad/GU_Course_project_DS/blob/main/Solution/Lyutova_solution.ipynb)
